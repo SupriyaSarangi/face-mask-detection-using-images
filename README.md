@@ -11,7 +11,7 @@ The project is built using Deep learning technique called as Convolutional neura
 
 -without_mask - 686 images
 
-The dataset is available in the repository above.
+The dataset is taken from the following link https://github.com/prajnasb/observations/tree/master/experiements/data.
 
 ## Installation
 

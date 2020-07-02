@@ -13,7 +13,7 @@ The project is built using Deep learning technique called as Convolutional neura
 
 The dataset is available in the repository above.
 
-##Installation
+## Installation
 
 -- clone the repository
 
@@ -24,7 +24,7 @@ $ git clone
 $ pip3 install -r libraries.txt
 
 
-##Working
+## Working
 
 -- open command prompt in windows and change the path to where you have saved the project
 

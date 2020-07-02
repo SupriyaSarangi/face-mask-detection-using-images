@@ -17,7 +17,7 @@ The dataset is taken from the following link https://github.com/prajnasb/observa
 
 -- clone the repository
 
-$ git clone
+$ git clone https://github.com/SupriyaSarangi/face-mask-detection-using-images.git
 
 -- install the libraries by typing the command as shown below
 
